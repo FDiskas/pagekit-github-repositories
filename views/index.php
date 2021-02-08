@@ -1,4 +1,3 @@
-<?php $view->style('uistyle', 'repo:css/uikit.min.css') ?>
 <?php $view->script('uikitjs', 'repo:js/uikit/uikit.min.js', 'jquery')?>
 
 
